@@ -1,0 +1,12 @@
+{
+    "name": "university-project-pwcheck",
+    "version": "1.0.0",
+    "description": "First university project",
+    "main": "pwcheck.c",
+    "scripts": {
+        "compile": "gcc -std=c99 -Wall -Wextra -Werror pwcheck.c -o pwcheck"
+    },
+    "keywords": [],
+    "author": "aturytsa",
+    "license": "ISC"
+}
